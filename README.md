@@ -68,14 +68,6 @@
 
 ---
 
-'''
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrigaurav1&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrigaurav1&theme=tokyonight" alt="github streak" />
-</p>
-'''
 ---
 
 <h3 align="center">✨ "Automate. Optimize. Scale. Deliver the Cloud Way." ✨</h3>
